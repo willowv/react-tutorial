@@ -1,5 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Don't forget to run `npm install` after you pull the repository!
+
+To create this I followed the tutorial here: https://reactjs.org/tutorial/tutorial.html
+
+I also implemented the following extra credit pieces:
+- Display the location for each move in the format (col, row) in the move history list.
+- Bold the currently selected item in the move list.
+- Rewrite Board to use two loops to make the squares instead of hardcoding them.
+- Add a toggle button that lets you sort the moves in either ascending or descending order.
+- When someone wins, highlight the three squares that caused the win.
+- When no one wins, display a message about the result being a draw.
+
+Additionally I used Cypress to write a single integration test that verifies all behavior.
+
 ## Available Scripts
 
 In the project directory, you can run:
