@@ -12,7 +12,7 @@ I also implemented the following extra credit pieces:
 - When someone wins, highlight the three squares that caused the win.
 - When no one wins, display a message about the result being a draw.
 
-Additionally I used Cypress to write a single integration test that verifies all behavior.
+Additionally I used Cypress to write a single integration test (see /cypress/integration/tictactoe_spec.js) that verifies all behavior.
 
 ## Available Scripts
 
