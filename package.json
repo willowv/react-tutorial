@@ -35,6 +35,6 @@
   "devDependencies": {
     "@types/react": "^16.9.21",
     "@types/react-dom": "^16.9.5",
-    "cypress": "^4.0.2"
+    "cypress": "^4.12.1"
   }
 }
